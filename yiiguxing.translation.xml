@@ -1,0 +1,27 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="could not read a hi value" />
+      <item value="The server time zone value '�й���׼ʱ��' is unrecognized or represents more than one time zone." />
+      <item value="refusing to merge unrelated histories" />
+      <item value="No anonymous write access." />
+      <item value="Invocation failed Server returned invalid Response." />
+      <item value="Provides UID in one second" />
+      <item value="Buffered UID provider(Lambda supported), which provides UID in the same one second" />
+      <item value="Total 64 bits" />
+      <item value="initialize shift" />
+      <item value="initialize max value" />
+      <item value="initialize bits" />
+      <item value="Unable to create initial connections of pool" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="15" />
+        <entry key="ENGLISH" value="16" />
+      </map>
+    </option>
+  </component>
+  <component name="Settings">
+    <option name="ignoreRegExp" value="" />
+  </component>
+</application>
