@@ -4,11 +4,10 @@
     <property name="created">2019-12-05T09:03:01</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.2.0.0</property>
-    <property name="modified">2019-12-05T10:59:55</property>
+    <property name="modified">2019-12-05T11:01:11</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Consolas" />
-  <option name="CONSOLE_FONT_SIZE" value="12" />
   <option name="CONSOLE_LINE_SPACING" value="1.2" />
   <attributes>
     <option name="HTML_CODE">
