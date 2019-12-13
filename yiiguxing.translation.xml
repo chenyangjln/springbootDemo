@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="No value present" />
       <item value="Disconnected from the target VM, address: 'javadebug', transport: 'shared memory'" />
       <item value="Consider defining a bean of type 'cn.afterturn.easypoi.handler.inter.IExcelVerifyHandler' in your configuration." />
       <item value="Field verifyHandler in com.sgcc.qhwz.service.ZContract0111IscmService required a bean of type 'cn.afterturn.easypoi.handler.inter.IExcelVerifyHandler' that could not be found." />
@@ -25,8 +26,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="20" />
-        <entry key="ENGLISH" value="21" />
+        <entry key="CHINESE" value="21" />
+        <entry key="ENGLISH" value="22" />
       </map>
     </option>
   </component>
