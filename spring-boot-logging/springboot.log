@@ -1,0 +1,11 @@
+2019-12-23 11:29:08.757  INFO 6036 --- [main] c.a.s.SpringBootLoggingApplicationTests  : Starting SpringBootLoggingApplicationTests on DESKTOP-G528PBH with PID 6036 (started by 86182 in E:\intelliJideaWork\springbootDemo\spring-boot-logging)
+2019-12-23 11:29:08.759 DEBUG 6036 --- [main] c.a.s.SpringBootLoggingApplicationTests  : Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+2019-12-23 11:29:08.759  INFO 6036 --- [main] c.a.s.SpringBootLoggingApplicationTests  : No active profile set, falling back to default profiles: default
+2019-12-23 11:29:09.616  INFO 6036 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-12-23 11:29:09.807  INFO 6036 --- [main] c.a.s.SpringBootLoggingApplicationTests  : Started SpringBootLoggingApplicationTests in 1.302 seconds (JVM running for 2.004)
+2019-12-23 11:29:09.942 TRACE 6036 --- [main] c.a.s.SpringBootLoggingApplicationTests  : 这是trace日志，跟踪轨迹的意思，框架再运行过程中跟踪一些信息
+2019-12-23 11:29:09.942 DEBUG 6036 --- [main] c.a.s.SpringBootLoggingApplicationTests  : 这是debug日志，调试信息，框架运行到关键步骤，调试一些信息
+2019-12-23 11:29:09.942  INFO 6036 --- [main] c.a.s.SpringBootLoggingApplicationTests  : 这是info日志，输出自己定义的信息
+2019-12-23 11:29:09.942  WARN 6036 --- [main] c.a.s.SpringBootLoggingApplicationTests  : 这是warn日志，警告信息
+2019-12-23 11:29:09.943 ERROR 6036 --- [main] c.a.s.SpringBootLoggingApplicationTests  : 这是error日志，错误信息，比如捕获异常
+2019-12-23 11:29:09.957  INFO 6036 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'

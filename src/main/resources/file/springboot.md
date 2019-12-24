@@ -23,3 +23,9 @@
         扩展的时候，是通过在多个服务器上复制这个单体应用来进行扩展。
     - 一个微服务架构把每个功能元素放在一个独立的服务中。
         并且通过跨服务器分发这些服务进行扩展，只在需要时才复制。
+        
+### 默认生成的spring boot项目resource文件夹的目录结构
+    - static：保存所有的静态资源；js,css,images;
+    - templates：保存所有的模板页面。（虽然spring boot默认jar包使用的是嵌入式的Tomcat（默认不支持JSP页面），
+        但是我们可以使用模板引擎（freemarker,thymeleaf））；
+    - application.properties：spring boot应用的配置文件，可以修改一些默认配置。   
