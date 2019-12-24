@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Can not deserialize value of type java.util.Date from String &quot;2019-10-01&quot;: expected format &quot;yyyy-MM-dd HH:mm:ss&quot;" />
       <item value="Positive matches:" />
       <item value="CONDITIONS EVALUATION REPORT" />
       <item value="STATUS" />
@@ -30,8 +31,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="23" />
-        <entry key="ENGLISH" value="24" />
+        <entry key="CHINESE" value="24" />
+        <entry key="ENGLISH" value="25" />
       </map>
     </option>
   </component>
