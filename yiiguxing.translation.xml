@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Positive matches:" />
+      <item value="CONDITIONS EVALUATION REPORT" />
+      <item value="STATUS" />
       <item value="#\u 8 BBE\u 7 F 6 Efast DFS\u 8 BBF\u 95 EE\u 670 D\u 52 A 1\u 5668" />
       <item value="No value present" />
       <item value="Disconnected from the target VM, address: 'javadebug', transport: 'shared memory'" />
@@ -27,8 +30,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="21" />
-        <entry key="ENGLISH" value="22" />
+        <entry key="CHINESE" value="23" />
+        <entry key="ENGLISH" value="24" />
       </map>
     </option>
   </component>
