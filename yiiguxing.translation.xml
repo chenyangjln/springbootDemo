@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Exception in thread &quot;main&quot; java.lang.ArithmeticException: / by zero" />
       <item value="Can not deserialize value of type java.util.Date from String &quot;2019-10-01&quot;: expected format &quot;yyyy-MM-dd HH:mm:ss&quot;" />
       <item value="Positive matches:" />
       <item value="CONDITIONS EVALUATION REPORT" />
@@ -32,7 +33,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="25" />
-        <entry key="ENGLISH" value="25" />
+        <entry key="ENGLISH" value="26" />
       </map>
     </option>
   </component>
