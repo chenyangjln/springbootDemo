@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Process" />
+      <item value="exit" />
       <item value="Invalid VCS root mapping The directory &lt;Proj…&gt;\itheima-news-ppt is registered as a Git root, but no Git repositories were found there." />
       <item value="Exception in thread &quot;main&quot; java.lang.ArithmeticException: / by zero" />
       <item value="Can not deserialize value of type java.util.Date from String &quot;2019-10-01&quot;: expected format &quot;yyyy-MM-dd HH:mm:ss&quot;" />
@@ -33,8 +35,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="26" />
-        <entry key="ENGLISH" value="27" />
+        <entry key="CHINESE" value="28" />
+        <entry key="ENGLISH" value="29" />
       </map>
     </option>
   </component>
