@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="/ by zero" />
+      <item value="by zero" />
+      <item value="Arithmetic Exception" />
       <item value="Every Java application has a single instance of class" />
       <item value=".Class Cast Exception" />
       <item value="Compares this string to the specified object. The result is {@code * true} if and only if the argument is not {@code null} and is a {@code * String} object that represents the same sequence of characters as this * object." />
@@ -38,8 +41,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="31" />
-        <entry key="ENGLISH" value="32" />
+        <entry key="CHINESE" value="34" />
+        <entry key="ENGLISH" value="35" />
       </map>
     </option>
   </component>
