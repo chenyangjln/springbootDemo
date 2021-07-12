@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="a string that has the same contents as this string, but is * guaranteed to be from a pool of unique strings." />
       <item value="The value is used for character storage." />
       <item value="The value is used for character storage" />
       <item value="/ by zero" />
@@ -43,8 +44,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="36" />
-        <entry key="ENGLISH" value="37" />
+        <entry key="CHINESE" value="37" />
+        <entry key="ENGLISH" value="38" />
       </map>
     </option>
   </component>
