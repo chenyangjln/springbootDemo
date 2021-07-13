@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Returns an iterator over elements of type {@code T}." />
+      <item value="Returns an iterator over elements of type" />
       <item value="Create a copy, don't share the array" />
       <item value="a string that has the same contents as this string, but is * guaranteed to be from a pool of unique strings." />
       <item value="The value is used for character storage." />
@@ -45,8 +47,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="38" />
-        <entry key="ENGLISH" value="39" />
+        <entry key="CHINESE" value="40" />
+        <entry key="ENGLISH" value="41" />
       </map>
     </option>
   </component>
