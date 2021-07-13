@@ -78,6 +78,12 @@
       <option name="INCLUDE" value="true" />
     </filter>
   </component>
+  <component name="NodeRendererSettings">
+    <option name="ALTERNATIVE_COLLECTION_VIEW_ENABLED" value="false" />
+  </component>
+  <component name="ViewsSettings">
+    <option name="HIDE_NULL_ARRAY_ELEMENTS" value="false" />
+  </component>
   <component name="XDebuggerSettings">
     <data-views />
     <general />
