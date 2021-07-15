@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="win" />
+      <item value="minCapacity is usually close to size, so this is a win:" />
+      <item value="overflow-conscious code" />
+      <item value="overflow-conscious" />
+      <item value="mod Count" />
+      <item value="Increments modCount" />
+      <item value="Capacity" />
       <item value="Returns an iterator over elements of type {@code T}." />
       <item value="Returns an iterator over elements of type" />
       <item value="Create a copy, don't share the array" />
@@ -47,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="40" />
-        <entry key="ENGLISH" value="41" />
+        <entry key="CHINESE" value="47" />
+        <entry key="ENGLISH" value="48" />
       </map>
     </option>
   </component>
