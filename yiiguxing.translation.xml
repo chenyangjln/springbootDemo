@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Instantiation Exception" />
       <item value="Constructs a new, empty set; the backing &lt;tt&gt;HashMap&lt;/tt&gt; instance has * default initial capacity (16) and load factor (0.75)." />
       <item value="backing" />
       <item value="instance" />
@@ -50,7 +51,6 @@
       <item value="Provides UID in one second" />
       <item value="Buffered UID provider(Lambda supported), which provides UID in the same one second" />
       <item value="Total 64 bits" />
-      <item value="initialize shift" />
     </histories>
     <option name="languageScores">
       <map>
