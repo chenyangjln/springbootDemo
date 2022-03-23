@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Address already in use: JVM_Bind" />
       <item value="Cannot resolve com.google.code:kaptcha:2.3.2" />
       <item value="No goals have been specified for this build. You must specify a valid lifecycle phase or a goal in the format &lt;plugin-prefix&gt;" />
       <item value="Instantiation Exception" />
@@ -50,7 +51,6 @@
       <item value="refusing to merge unrelated histories" />
       <item value="No anonymous write access." />
       <item value="Invocation failed Server returned invalid Response." />
-      <item value="Provides UID in one second" />
     </histories>
     <option name="languageScores">
       <map>
